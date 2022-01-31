@@ -1,3 +1,9 @@
+`docker run --rm --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll serve`
+
+pay no attention to the content behind the curtain
+
+forked to scaffold my own TTRPG site, which will be cleared of cairn content in good order
+
 ---
 layout: default
 title: Home
